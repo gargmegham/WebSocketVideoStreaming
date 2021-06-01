@@ -2,7 +2,7 @@
 Python OpenCV webcam sending frames through TCP socket. 
 
 ## YouTube Tutorial
-[<img src="./screenshot/cover.png" width="550px">](https://www.youtube.com/watch?v=MQ8JfdvA7Yk)
+[<img src="./cover.png" width="550px">](https://www.youtube.com/watch?v=MQ8JfdvA7Yk)
 
 ## What is a network Socket?
 - A software structure within a network node
@@ -38,15 +38,15 @@ ifconfig
 - May serve several  clients concurrently
 - A client should know the server IP and port
 
-![](./screenshot/img01.png)
+![](./img01.png)
 
 ## Python Server module
 
-![](./screenshot/img02.png)
+![](./img02.png)
 
 ## Python Client module
 
-![](./screenshot/img03.png)
+![](./img03.png)
 
 ## Video data transmission
 ### At server side
@@ -94,19 +94,15 @@ python client.py
 - PC 1: run server.py
 - PC 1: run client.py
 
-![](./screenshot/demo.gif)
+![](./demo.gif)
 
 
 - PC 1: run server.ipynb
 - PC 1: run client.py
 
-![](./screenshot/demo-2.gif)
+![](./demo-2.gif)
 
 - PC 1: run server.ipynb
 - PC 2: run client.py
 
-![](./screenshot/demo-3.gif)
-
-## Reference
-- [kittinan/socket](https://gist.github.com/kittinan/e7ecefddda5616eab2765fdb2affed1b)
-- [Socket programming and OpenCv in Python](https://www.youtube.com/watch?v=7-O7yeO3hNQ)
+![](./demo-3.gif)
