@@ -89,20 +89,3 @@ After running the `server.py`, copy paste the IP and PORT to `client.py`. After 
 ```
 python client.py
 ```
-
-## Demo
-- PC 1: run server.py
-- PC 1: run client.py
-
-![](./demo.gif)
-
-
-- PC 1: run server.ipynb
-- PC 1: run client.py
-
-![](./demo-2.gif)
-
-- PC 1: run server.ipynb
-- PC 2: run client.py
-
-![](./demo-3.gif)
